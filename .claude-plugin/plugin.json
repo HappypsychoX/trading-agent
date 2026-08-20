@@ -1,7 +1,7 @@
 {
   "name": "trading-agent",
-  "description": "Autonomous Agentic-Account trader: places trades via Robinhood MCP with standing protective orders (stop-loss/take-profit), a tunable horizon bias, a leveraged/inverse ETF screen, and GitHub-backed risk parameters with a cross-session note.",
-  "version": "4.0.0",
+  "description": "Autonomous Agentic-Account trader: places trades via Robinhood MCP (whole or fractional/dollar-based shares) with standing protective orders (stop-loss/take-profit), read-only Webull market data for research and candidate sourcing, a tunable horizon bias, a leveraged/inverse ETF screen, and GitHub-backed risk parameters with a cross-session note.",
+  "version": "4.1.0",
   "author": {
     "name": "HappypsychoX"
   },
